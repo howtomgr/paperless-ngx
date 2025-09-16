@@ -1,0 +1,60 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:58.635406",
+  "default_ports": [
+    80,
+    443,
+    6379,
+    8000
+  ],
+  "dependencies": [],
+  "description": "Paperless-ngx is a free and open-source document management system that transforms your physical documents into a searchable digital archive. It features OCR, automatic tagging, full-text search, and a modern web interface for managing your documents.",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/paperless-ngx",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/paperless-ngx",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.635432",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "paperless-ngx",
+  "repository_url": "https://github.com/howtomgr/paperless-ngx",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "alpine",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "miscellaneous",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection",
+    "communication"
+  ],
+  "title": "Paperless-ngx Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/paperless-ngx"
+}
